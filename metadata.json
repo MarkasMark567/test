@@ -1,0 +1,5 @@
+{
+  "name": "TubeFetch",
+  "description": "High-performance YouTube video downloader with cookie support and real-time progress tracking.",
+  "requestFramePermissions": []
+}
